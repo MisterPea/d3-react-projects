@@ -1,0 +1,93 @@
+[
+  {
+    "date": "2020-03-03T00:00:00.000",
+    "message": "First recorded case of person-to-person spread in New York State",
+    "y": 5481103,
+    "length": 5700000,
+    "justify":"start"
+  },
+  {
+    "date": "2020-03-09T00:00:00.000",
+    "message": "16 confirmed cases of COVID-19 in NYC",
+    "y": 4973513,
+    "length": 5200000,
+    "justify":"start"
+  },
+  {
+    "date": "2020-03-16T00:00:00.000",
+    "message": "NYC School are shuttered",
+    "y": 2178555,
+    "length": 3200000,
+    "justify":"start"
+  },
+  {
+    "date": "2020-06-08T00:00:00.000",
+    "message": "Reopening Plan Initiated",
+    "y": 804542,
+    "length": 2900000,
+    "justify":"middle"
+  },
+  {
+    "date": "2020-07-20T00:00:00.000",
+    "message": "Reopening Plan: Gatherings up to 50 people",
+    "y": 1156735,
+    "length":2600000,
+    "justify":"start"
+  },
+  {
+    "date": "2021-01-10T00:00:00.000",
+    "message": "Statewide Vaccination Plan launched",
+    "y": 763097,
+    "length": 2300000,
+    "justify":"middle"
+  },
+  {
+    "date": "2021-05-17T00:00:00.000",
+    "message": "Fully vaccinated can forgo masks in public",
+    "y": 2022584,
+    "length": 4300000,
+    "justify":"start"
+  },
+  {
+    "date": "2021-06-01T00:00:00.000",
+    "message": "Subway returns to 24-hour service",
+    "y": 2258831,
+    "length": 4000000,
+    "justify":"start"
+  },
+  {
+    "date": "2021-09-13T00:00:00.000",
+    "message": "Vaccine mandates for all NYC workers",
+    "y": 2852796,
+    "length": 3700000,
+    "justify":"middle"
+  },
+  {
+    "date": "2022-02-10T00:00:00.000",
+    "message": "Mask mandate eased for some indoor settings",
+    "y": 3112489,
+    "length": 4600000,
+    "justify":"middle"
+  },
+  {
+    "date": "2022-03-07T00:00:00.000",
+    "message": "NYC public school mask mandates lifted",
+    "y": 2980920,
+    "length": 4300000,
+    "justify":"start"
+  },
+  {
+    "date": "2022-04-02T00:00:00.000",
+    "message": "Private sector vaccine mandate",
+    "y": 2128435,
+    "length": 3700000,
+    "justify":"start"
+  },
+  {
+    "date": "2022-10-18T00:00:00.000",
+    "message": "Mayor lifts vaccine mandates for private sector",
+    "y": 3693627,
+    "length": 4000000,
+    "justify":"end"
+  }
+]

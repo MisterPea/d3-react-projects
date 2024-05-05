@@ -1,0 +1,25 @@
+.anscombe-main-div {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  width: 100%;
+  svg {
+    width: 100%;
+  }
+
+  .domain,
+  line {
+    stroke: #202020;
+    stroke-width: 0.5;
+  }
+  g text {
+    fill: #404040;
+    /// Change on @media
+    font-size: 1em;
+  }
+}
+
+.box {
+  background-color: rgba(204, 213, 174, 0.319);
+  border-radius: 5px;
+}

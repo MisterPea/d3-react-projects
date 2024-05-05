@@ -1,0 +1,38 @@
+{
+  "compilerOptions": {
+    "target": "esnext", // Set according to your browser support needs
+    "resolveJsonModule": true,
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ], // Include necessary libraries
+    "allowJs": true, // Allow JavaScript files for compatibility
+    "skipLibCheck": true, // Avoid checking for missing lib files
+    "esModuleInterop": true, // Ensure compatibility with ES modules
+    "allowSyntheticDefaultImports": true, // Enable synthetic default imports
+    "strict": true, // Enable strict type checking
+    "forceConsistentCasingInFileNames": true, // Enforce consistent file naming
+    "module": "esnext", // Choose the output module format
+    "moduleResolution": "node", // Enable node-style module resolution
+    "jsx": "react-jsx", // Configure JSX handling
+    "declaration": true, // Emit type declaration files (.d.ts)
+    "outDir": "./dist", // Output directory for compiled JavaScript files
+    "sourceMap": true, // Generate source maps for debugging
+    "baseUrl": "src", // Base URL for resolving modules relative to
+    "types": [
+      "react",
+      "react-dom"
+    ] // Include necessary type definitions
+  },
+  "include": [
+    "src",
+    "./webpack.config.js",
+    "src/App.tsx",
+    "src/index.tsx"
+  ], // Include TypeScript files for compilation
+  "exclude": [
+    "node_modules",
+    "dist"
+  ] // Exclude unnecessary directories
+}
